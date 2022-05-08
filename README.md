@@ -4,4 +4,7 @@ An Arduino Sketch that uses [TinyUSB](https://github.com/hathach/tinyusb) to cre
 It also has an LED that gives feedback about the current status.
 
 ## Circuit
-![](https://uploads.nico.dev/webusb-buzzer-circuit-pico.jpg)
+![Circuit Design RaspberryPi Pico + Buzzer Button](https://uploads.nico.dev/webusb-buzzer-circuit-pico.jpg)
+
+## Finished
+![Image of the finished Buzzer-Button](https://uploads.nico.dev/webusb-buzzer-square.jpg)
